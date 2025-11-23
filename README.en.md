@@ -1,3 +1,4 @@
+这个是jd的hotkey，我只是在学习的过程中某笨蛋ai只接受github的代码仓库，才自己分享上来的，供自己学习用，官方开源的具体地址为gitee的https://gitee.com/jd-platform-opensource/hotkey.git 不要告我侵权（/(ㄒoㄒ)//(ㄒoㄒ)//(ㄒoㄒ)/~~）
 # hotkey
 
 #### Description
