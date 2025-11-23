@@ -1,4 +1,4 @@
-这个是jd的hotkey，我只是在学习的过程中某笨蛋ai只接受github的代码仓库，才自己分享上来的，供自己学习用，官方开源的具体地址为gitee的https://gitee.com/jd-platform-opensource/hotkey.git，不要告我侵权（/(ㄒoㄒ)/~~/(ㄒoㄒ)/~~/(ㄒoㄒ)/~~）
+这个是jd的hotkey，我只是在学习的过程中某笨蛋ai只接受github的代码仓库，才自己分享上来的，供自己学习用，官方开源的具体地址为gitee的https://gitee.com/jd-platform-opensource/hotkey.git  不要告我侵权（/(ㄒoㄒ)/~~/(ㄒoㄒ)/~~/(ㄒoㄒ)/~~）
 # hotkey
 
 备注：有需要存储海量日志的场景，秒级GB级或数十GB级，可关注我的另一个开源项目[JLog](https://gitee.com/jd-platform-opensource/jlog)，较ELK系列套件在处理日志方面提升10倍性能，且存储降低70%以上。
